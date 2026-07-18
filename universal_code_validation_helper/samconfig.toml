@@ -1,0 +1,14 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "universal-code-validator"
+resolve_s3 = true
+s3_prefix = "universal-code-validator"
+region = "ca-central-1"
+confirm_changeset = false
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+image_repositories = []
+
+[default.global.parameters]
+region = "ca-central-1"

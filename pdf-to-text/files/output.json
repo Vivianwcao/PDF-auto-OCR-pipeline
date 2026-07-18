@@ -1,0 +1,363 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Invoice #7046\nFrom: 360 Engineering & Environmental Consulting Ltd. Invoice Date: 05/28/25\nDue Date: 06/27/25\nSuite 1600, Bow Valley Square 1\nJob: 205087\n202 - 6th Ave SW Calgary, AB T2P 2R9\nAFE No.: AB250165\nPh: (403) 454-3600 P.O. No.:\nTo: Canadian Natural Resources Limited\nAttention: Laura Mowat Approver Code: D753\n#2100, 855 - 2 St SW\nTerms: Net 30\nCalgary AB T2P 4J8\nCanada Location: D-008-C/094-H-04 S1\nJob Name: Supplemental 2025 Stage 2 – Nig Creek Phase 2/Stage 2 D 008 C/094 H 04 S1\nBilling Dates: Mar 26 - May 28, 2025\nTICKET #S: 47854, 46780\nDescription UOM Quantity Rate Amount\n3140.405 Consulting Serv - OFFICE TIME - Project Management\nProject Manager Hour 4.75 $125.00 $593.75\nJunior Environmental Scientist Hour 0.75 $80.00 $60.00\n$653.75\n3140.405 Consulting Serv - OFFICE TIME - Technical Office Work\nIntermediate Environmental Scientist Hour 20.50 $95.00 $1,947.50\nSenior Program Manager / Prof Sign Off Hour 0.50 $170.00 $85.00\n$2,032.50\nRemittance To: SUBTOTAL $2,686.25\n360 Engineering & Environmental Consulting Ltd.\nCA-GST only (5%) $134.31\nSuite 1600, Bow Valley Square 1\n202-6th Ave SW, Calgary, AB T2P 2R9\nGST#: 786032326RT0001\nFor invoice disputes, inquiries and/or payment notifications,\nBALANCE DUE $2,820.56\nplease email ar@360eec.com.\nUnless otherwise superseded by a service agreement, all services\nand payments are subject to 360's standard terms and conditions:\nwww.360eec.com/standard-terms/\nInvoice #7046 Page 1/1 Delivered by",
+      "tables": [
+        [
+          [
+            "Description",
+            "UOM",
+            "Quantity",
+            "Rate",
+            "Amount"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Project Management",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Project Manager",
+            "Hour",
+            "4.75",
+            "$125.00",
+            "$593.75"
+          ],
+          [
+            "Junior Environmental Scientist",
+            "Hour",
+            "0.75",
+            "$80.00",
+            "$60.00"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "$653.75"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Technical Office Work",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Intermediate Environmental Scientist",
+            "Hour",
+            "20.50",
+            "$95.00",
+            "$1,947.50"
+          ],
+          [
+            "Senior Program Manager / Prof Sign Off",
+            "Hour",
+            "0.50",
+            "$170.00",
+            "$85.00"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "$2,032.50"
+          ]
+        ],
+        [
+          [
+            "SUBTOTAL",
+            "$2,686.25"
+          ],
+          [
+            "CA-GST only (5%)",
+            "$134.31"
+          ],
+          [
+            "BALANCE DUE",
+            "$2,820.56"
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "360 Engineering and Environmental Ltd.\nSuite 1600, Bow Valley Square 1\nField Ticket #46780\n202 - 6th Ave SW Calgary, AB\nT2P 2R9\nPh: (403) 454-3600\nCUSTOMER JOB LOCATION DATE\nCanadian Natural Resources Limited D-008-C/094-H-04 S1 30 Apr 2025\nJOB AFE NO. MAJOR / MINOR\n205087 - Supplemental 2025 Stage 2\n–Nig Creek-Phase 2/Stage AB250165\n2-D-008-C/094-H-04 S1\nSummary of Ticket Charges\nCustomer Task/Item UoM Qty Rate Total\n3140.405 Consulting Serv - OFFICE TIME - Project Management\n$125.00\nProject Manager hour 3.75 $468.75\nJunior Environmental Scientist hour 0.25 $80.00 $20.00\n3140.405 Consulting Serv - OFFICE TIME - Technical Office Work\nIntermediate Environmental Scientist hour 2.00 $95.00 $190.00\nSummary of Charges\nCUSTOMER SIGNATURE/AFE STAMP Category Subtotal\nLabour Charges $678.75\nEquipment & Disbursements $0.00\nServices $0.00\n3rd Party Charges $0.00\n360 Subtotal $678.75\nTicket Total $678.75\nON-SITE CONTACT CUSTOMER REF #\nDiana Dunn\nPAGE: 1 OF 1 DOCUMENT VERSION: 1 Delivered by",
+      "tables": [
+        [
+          [
+            "JOB LOCATION"
+          ],
+          [
+            "D-008-C/094-H-04 S1"
+          ],
+          [
+            "AFE NO."
+          ],
+          [
+            "AB250165"
+          ]
+        ],
+        [
+          [
+            "Summary of Ticket Charges",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Customer Task/Item",
+            "UoM",
+            "Qty",
+            "Rate",
+            "Total"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Project Management",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "$125.00",
+            ""
+          ],
+          [
+            "Project Manager",
+            "hour",
+            "3.75",
+            "",
+            "$468.75"
+          ],
+          [
+            "Junior Environmental Scientist",
+            "hour",
+            "0.25",
+            "$80.00",
+            "$20.00"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Technical Office Work",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Intermediate Environmental Scientist",
+            "hour",
+            "2.00",
+            "$95.00",
+            "$190.00"
+          ]
+        ],
+        [
+          [
+            "Summary of Charges",
+            null,
+            null
+          ],
+          [
+            "CUSTOMER SIGNATURE/AFE STAMP",
+            "Category",
+            "Subtotal"
+          ],
+          [
+            "",
+            "Labour Charges $678.75",
+            null
+          ],
+          [
+            "",
+            "Equipment & Disbursements $0.00",
+            null
+          ],
+          [
+            "",
+            "Services $0.00",
+            null
+          ],
+          [
+            "",
+            "3rd Party Charges $0.00",
+            null
+          ],
+          [
+            "",
+            "360 Subtotal $678.75",
+            null
+          ],
+          [
+            "",
+            "Ticket Total $678.75",
+            null
+          ],
+          [
+            "",
+            "ON-SITE CONTACT",
+            "CUSTOMER REF #"
+          ],
+          [
+            "",
+            "Diana Dunn",
+            ""
+          ]
+        ]
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "360 Engineering and Environmental Ltd.\nSuite 1600, Bow Valley Square 1\nField Ticket #47854\n202 - 6th Ave SW Calgary, AB\nT2P 2R9\nPh: (403) 454-3600\nCUSTOMER JOB LOCATION DATE\nCanadian Natural Resources Limited D-008-C/094-H-04 S1 28 May 2025\nJOB AFE NO. MAJOR / MINOR\n205087 - Supplemental 2025 Stage 2\n–Nig Creek-Phase 2/Stage AB250165\n2-D-008-C/094-H-04 S1\nSummary of Ticket Charges\nCustomer Task/Item UoM Qty Rate Total\n3140.405 Consulting Serv - OFFICE TIME - Project Management\nJunior Environmental Scientist hour 0.50 $80.00 $40.00\n$125.00\nProject Manager hour 1.00 $125.00\n3140.405 Consulting Serv - OFFICE TIME - Technical Office Work\nIntermediate Environmental Scientist hour 18.50 $95.00 $1,757.50\n$170.00\nSenior Program Manager / Prof Sign Off hour 0.50 $85.00\nSummary of Charges\nCUSTOMER SIGNATURE/AFE STAMP Category Subtotal\nLabour Charges $2,007.50\nEquipment & Disbursements $0.00\nServices $0.00\n3rd Party Charges $0.00\n360 Subtotal $2,007.50\nTicket Total $2,007.50\nON-SITE CONTACT CUSTOMER REF #\nDiana Dunn\nPAGE: 1 OF 1 DOCUMENT VERSION: 1 Delivered by",
+      "tables": [
+        [
+          [
+            "JOB LOCATION"
+          ],
+          [
+            "D-008-C/094-H-04 S1"
+          ],
+          [
+            "AFE NO."
+          ],
+          [
+            "AB250165"
+          ]
+        ],
+        [
+          [
+            "Summary of Ticket Charges",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "Customer Task/Item",
+            "UoM",
+            "Qty",
+            "Rate",
+            "Total"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Project Management",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Junior Environmental Scientist",
+            "hour",
+            "0.50",
+            "$80.00",
+            "$40.00"
+          ],
+          [
+            "",
+            "",
+            "",
+            "$125.00",
+            ""
+          ],
+          [
+            "Project Manager",
+            "hour",
+            "1.00",
+            "",
+            "$125.00"
+          ],
+          [
+            "3140.405 Consulting Serv - OFFICE TIME - Technical Office Work",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Intermediate Environmental Scientist",
+            "hour",
+            "18.50",
+            "$95.00",
+            "$1,757.50"
+          ],
+          [
+            "",
+            "",
+            "",
+            "$170.00",
+            ""
+          ],
+          [
+            "Senior Program Manager / Prof Sign Off",
+            "hour",
+            "0.50",
+            "",
+            "$85.00"
+          ]
+        ],
+        [
+          [
+            "Summary of Charges",
+            null,
+            null
+          ],
+          [
+            "CUSTOMER SIGNATURE/AFE STAMP",
+            "Category",
+            "Subtotal"
+          ],
+          [
+            "",
+            "Labour Charges $2,007.50",
+            null
+          ],
+          [
+            "",
+            "Equipment & Disbursements $0.00",
+            null
+          ],
+          [
+            "",
+            "Services $0.00",
+            null
+          ],
+          [
+            "",
+            "3rd Party Charges $0.00",
+            null
+          ],
+          [
+            "",
+            "360 Subtotal $2,007.50",
+            null
+          ],
+          [
+            "",
+            "Ticket Total $2,007.50",
+            null
+          ],
+          [
+            "",
+            "ON-SITE CONTACT",
+            "CUSTOMER REF #"
+          ],
+          [
+            "",
+            "Diana Dunn",
+            ""
+          ]
+        ]
+      ]
+    }
+  ]
+}

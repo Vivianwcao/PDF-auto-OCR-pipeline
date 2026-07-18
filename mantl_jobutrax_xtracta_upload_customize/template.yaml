@@ -1,0 +1,24 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  MantlJobutraxXtractaCustomizeUploader:
+    Type: AWS::Serverless::Function
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      FunctionName: Mantl-Jobutrax-Xtracta-Customize-Uploader
+      Handler: index.handler
+      Runtime: nodejs22.x
+      MemorySize: 256
+      Timeout: 900
+      CodeUri: ./
+      Policies:
+        - LambdaInvokePolicy:
+            FunctionName: Xtracta_upload_pdf_customize
+      Events:
+        ApiTrigger:
+          Type: Api
+          Properties:
+            Path: /xtracta/upload
+            Method: POST

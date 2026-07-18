@@ -1,0 +1,14 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "check-pricebook-function"
+resolve_s3 = true
+s3_prefix = "check-pricebook-function"
+region = "ca-central-1"
+capabilities = "CAPABILITY_IAM"
+disable_rollback = true
+confirm_changeset = false
+image_repositories = []
+
+[default.global.parameters]
+region = "ca-central-1"

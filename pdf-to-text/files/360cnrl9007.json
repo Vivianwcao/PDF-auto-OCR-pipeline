@@ -1,0 +1,108 @@
+{
+	"Invoice #": "9007",
+	"From": "360 Engineering & Environmental Consulting Ltd.",
+	"Invoice Date": "2025-09-16",
+	"Due Date": "2025-10-16",
+	"Job": "207108",
+	"AFE No.": "AB197684",
+	"Cost Center": "",
+	"PO": "",
+	"Major": "",
+	"Terms": "Net 30",
+	"Minor": "",
+	"Location": "C-045-A/094-A-14 S1",
+	"To": "Canadian Natural Resources Limited",
+	"Attention": "Cassandra Atkins",
+	"Approver Code": "D777",
+	"Notes": "Job Name: BUICK 2025 VREST Vegetation Management C 045 A/094 A 14 S1 Billing Dates: Jun 3 - Aug 27, 2025 TICKET #S: 50145, 54403, 48092",
+	"Subtotal": "2647.65",
+	"CAGST": "132.38",
+	"PST": "0.00",
+	"Balance Due": "2780.03",
+	"Invocation_ID_xtracta": "1574509",
+	"Items": [
+		{
+			"Description of Service": "3140.405 Consulting Serv - FIELD TIME - Field Work",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Senior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "1.00",
+			"Rate": "110.00",
+			"Amount": "110.00"
+		},
+		{
+			"Description of Service": "Junior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "5.00",
+			"Rate": "80.00",
+			"Amount": "400.00"
+		},
+		{
+			"Description of Service": "Intermediate Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "10.00",
+			"Rate": "95.00",
+			"Amount": "950.00"
+		},
+		{
+			"Description of Service": "3140.405 Consulting Serv - OFFICE TIME - Project Management",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Junior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "0.25",
+			"Rate": "80.00",
+			"Amount": "20.00"
+		},
+		{
+			"Description of Service": "Intermediate Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "1.00",
+			"Rate": "95.00",
+			"Amount": "95.00"
+		},
+		{
+			"Description of Service": "Project Manager",
+			"UOM": "Hour",
+			"Quantity": "7.75",
+			"Rate": "125.00",
+			"Amount": "968.75"
+		},
+		{
+			"Description of Service": "3140.455 Consulting Equip - Disbursements",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Standard Field Equipment",
+			"UOM": "Daily",
+			"Quantity": "0.50",
+			"Rate": "100.00",
+			"Amount": "50.00"
+		},
+		{
+			"Description of Service": "Truck Mileage (km)",
+			"UOM": "Km",
+			"Quantity": "77.00",
+			"Rate": "0.70",
+			"Amount": "53.90"
+		}
+	],
+	"Dates": [
+		{ "Date": "2025-06-24", "Null Field": "" },
+		{ "Date": "2025-08-01", "Null Field": "" },
+		{ "Date": "2025-08-01", "Null Field": "" },
+		{ "Date": "2025-09-12", "Null Field": "" }
+	]
+}

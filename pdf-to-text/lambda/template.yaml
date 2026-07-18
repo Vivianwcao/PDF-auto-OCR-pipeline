@@ -1,0 +1,20 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  PdfParserFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      FunctionName: pdf-to-text-parser
+      # PackageType: Image
+      # Architectures: [x86_64]
+      # ImageUri: null
+      Runtime: python3.13
+      Handler: app.lambda_handler
+      CodeUri: .
+      Timeout: 900
+      MemorySize: 1024
+      Role: arn:aws:iam::759080473149:role/Write-tables-to-s3-role
+    # Metadata:
+    #   Dockerfile: Dockerfile
+    #   DockerContext: .
+    #   DockerTag: latest

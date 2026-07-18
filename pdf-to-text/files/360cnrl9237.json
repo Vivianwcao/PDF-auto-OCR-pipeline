@@ -1,0 +1,328 @@
+{
+	"Invoice #": "9237",
+	"Supplier Name": "360 Engineering & Environmental Consulting Ltd.",
+	"Invoice Date": "2025-09-22",
+	"Due Date": "2025-10-22",
+	"Job": "202961",
+	"AFE No": "AR240316",
+	"Cost Center": "",
+	"PO": "",
+	"Major": "",
+	"Terms": "Net 30",
+	"Minor": "",
+	"Location": "03-20-053-02W4 S1",
+	"Customer Name": "Canadian Natural Resources Limited",
+	"Attention": "Rob St Martin Approver",
+	"Approver Code": "D772",
+	"Customer Address": "2100, 855 - 2 St SW Calgary AB T2P 4J8 Canada",
+	"Description or Notes": "Job Name: Rivercourse Reclamation 03 20 053 02W4 S1 Billing Dates: Mar 4 - Sep 24, 2025 TICKET #S: 51513, 51798, 51799, 51406, 52182, 51933, 51996, 52093, 52100, 52670, 52750, 52775, 52844, 52851, 54814, 51030, 51715, 51893, 53315, 54169, 53617",
+	"Subtotal": "100998.08",
+	"CAGST": "5049.90",
+	"PST": "0.00",
+	"Balance Due": "106047.98",
+	"Invocation_ID_xtracta": "1567331",
+	"Items": [
+		{
+			"Description of Service": "3140.405 Consulting Serv - FIELD TIME - Field Work",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Operations Supervisor",
+			"UOM": "Hour",
+			"Quantity": "60.00",
+			"Rate": "145.00",
+			"Amount": "8700.00"
+		},
+		{
+			"Description of Service": "Intermediate Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "48.50",
+			"Rate": "95.00",
+			"Amount": "4607.50"
+		},
+		{
+			"Description of Service": "Senior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "4.00",
+			"Rate": "110.00",
+			"Amount": "440.00"
+		},
+		{
+			"Description of Service": "3140.405 Consulting Serv - OFFICE TIME - Project Management",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Project Manager",
+			"UOM": "Hour",
+			"Quantity": "10.00",
+			"Rate": "125.00",
+			"Amount": "1250.00"
+		},
+		{
+			"Description of Service": "Senior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "14.75",
+			"Rate": "110.00",
+			"Amount": "1622.50"
+		},
+		{
+			"Description of Service": "Junior Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "1.75",
+			"Rate": "80.00",
+			"Amount": "140.00"
+		},
+		{
+			"Description of Service": "Intermediate Environmental Scientist",
+			"UOM": "Hour",
+			"Quantity": "2.00",
+			"Rate": "95.00",
+			"Amount": "190.00"
+		},
+		{
+			"Description of Service": "3140.410 Survey/Line Loc - Locates and DGPs",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Hydrovac Slurry Disposal, R360 Environmental Solutions Canada Inc., Invoice #",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "2670.00",
+			"Amount": "2670.00"
+		},
+		{
+			"Description of Service": "LICAV500002915, Ticket # LICAV50004117-LC",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Hydrovac, Snelgrove Construction Ltd., Invoice # 113395, Ticket # 1093",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "3240.00",
+			"Amount": "3240.00"
+		},
+		{
+			"Description of Service": "Line Locating, Pro Line Locators Ltd., Invoice # 52593, Ticket # 52693",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "376.00",
+			"Amount": "376.00"
+		},
+		{
+			"Description of Service": "3140.415 Heavy Equipment - Heavy Equipment",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002313, Ticket # SN25205.5",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "1070.00",
+			"Amount": "1070.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002206, Ticket # SN25205.7",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "4166.00",
+			"Amount": "4166.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002235, Ticket # SN25205.8",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "5745.00",
+			"Amount": "5745.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002313, Ticket # SN25202.9",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "7437.00",
+			"Amount": "7437.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002251, Ticket #",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "2549.00",
+			"Amount": "2549.00"
+		},
+		{
+			"Description of Service": "SN25205.12",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002269, Ticket # MK25205.1",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "5811.00",
+			"Amount": "5811.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002269, Ticket # MK25205.2",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "2160.00",
+			"Amount": "2160.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002383, Ticket # MK25205.3",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "3462.00",
+			"Amount": "3462.00"
+		},
+		{
+			"Description of Service": "Canada",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002304, Ticket #",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "4128.00",
+			"Amount": "4128.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002304, Ticket # MK25205.5",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "3908.00",
+			"Amount": "3908.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002304, Ticket # MK25205.7",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "4898.00",
+			"Amount": "4898.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002316, Ticket # MK25205.8",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "4498.00",
+			"Amount": "4498.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002316, Ticket # MK25205.9",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "4218.00",
+			"Amount": "4218.00"
+		},
+		{
+			"Description of Service": "Heavy Equipment, Top Grade Construction Ltd., Invoice # 1002477, Ticket #",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "1080.00",
+			"Amount": "1080.00"
+		},
+		{
+			"Description of Service": "3140.415 Heavy Equipment - Lighter equipment",
+			"UOM": "",
+			"Quantity": "0.00",
+			"Rate": "0.00",
+			"Amount": "0.00"
+		},
+		{
+			"Description of Service": "Farm Equipment, Top Grade Construction Ltd., Invoice # 1002304, Ticket # MK25205.6",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "3506.00",
+			"Amount": "3506.00"
+		},
+		{
+			"Description of Service": "Fencing, 740774 Alberta Ltd. o/a TLT Enviro Division, Invoice # 4064, Ticket # 12536",
+			"UOM": "Each",
+			"Quantity": "1.00",
+			"Rate": "13872.98",
+			"Amount": "13872.98"
+		},
+		{
+			"Description of Service": "Accommodations (Flat Rate)",
+			"UOM": "Daily",
+			"Quantity": "9.50",
+			"Rate": "180.00",
+			"Amount": "1710.00"
+		},
+		{
+			"Description of Service": "Standard Field Equipment",
+			"UOM": "Daily",
+			"Quantity": "10.00",
+			"Rate": "100.00",
+			"Amount": "1000.00"
+		},
+		{
+			"Description of Service": "Subsistence",
+			"UOM": "Daily",
+			"Quantity": "10.00",
+			"Rate": "70.00",
+			"Amount": "700.00"
+		},
+		{
+			"Description of Service": "Truck Mileage (km)",
+			"UOM": "Km",
+			"Quantity": "2633.00",
+			"Rate": "0.70",
+			"Amount": "1843.10"
+		}
+	],
+	"Dates": [
+		{ "Date": "2025-07-24", "Null Field": "" },
+		{ "Date": "2025-07-24", "Null Field": "" },
+		{ "Date": "2025-07-30", "Null Field": "" },
+		{ "Date": "2025-07-31", "Null Field": "" },
+		{ "Date": "2025-07-31", "Null Field": "" },
+		{ "Date": "2025-08-05", "Null Field": "" },
+		{ "Date": "2025-08-06", "Null Field": "" },
+		{ "Date": "2025-08-06", "Null Field": "" },
+		{ "Date": "2025-08-07", "Null Field": "" },
+		{ "Date": "2025-08-07", "Null Field": "" },
+		{ "Date": "2025-08-09", "Null Field": "" },
+		{ "Date": "2025-08-10", "Null Field": "" },
+		{ "Date": "2025-08-11", "Null Field": "" },
+		{ "Date": "2025-08-11", "Null Field": "" },
+		{ "Date": "2025-08-12", "Null Field": "" },
+		{ "Date": "2025-08-12", "Null Field": "" },
+		{ "Date": "2025-08-13", "Null Field": "" },
+		{ "Date": "2025-08-13", "Null Field": "" },
+		{ "Date": "2025-08-15", "Null Field": "" },
+		{ "Date": "2025-08-15", "Null Field": "" },
+		{ "Date": "2025-08-16", "Null Field": "" },
+		{ "Date": "2025-08-16", "Null Field": "" },
+		{ "Date": "2025-08-17", "Null Field": "" },
+		{ "Date": "2025-08-17", "Null Field": "" },
+		{ "Date": "2025-08-18", "Null Field": "" },
+		{ "Date": "2025-08-18", "Null Field": "" },
+		{ "Date": "2025-08-19", "Null Field": "" },
+		{ "Date": "2025-08-19", "Null Field": "" },
+		{ "Date": "2025-08-20", "Null Field": "" },
+		{ "Date": "2025-08-20", "Null Field": "" },
+		{ "Date": "2025-08-26", "Null Field": "" },
+		{ "Date": "2025-09-10", "Null Field": "" },
+		{ "Date": "2025-09-11", "Null Field": "" },
+		{ "Date": "2025-09-22", "Null Field": "" }
+	]
+}

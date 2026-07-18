@@ -1,0 +1,26 @@
+{
+  "statusCode": 200,
+  "invocationId": 99999,
+  "s3Path": "parsed_pdf/OWA_206771_01.22.2026_INV11481_OI.json",
+  "areValidLines": true,
+  "xtracta_id": 1002282,
+  "xtracta_group": "Customize",
+  "params": {
+    "Xtracta workflow ID": 1002282
+  },
+  "payload": {
+    "invocationId": 99999,
+    "primaryFile": {
+      "name": "OWA_206771_01.22.2026_INV11481_OI.pdf",
+      "path": "OWA_206771_01.22.2026_INV11481_OI.pdf"
+    }
+  },
+  "supplierDUNS": "CT3450270",
+  "buyerNameField": "To",
+  "buyerAFECCField": "AFE No.",
+  "checkAFE": false,
+  "checkPricebook": true,
+  "line_item_description_field": "Description",
+  "line_item_uom_field": "UOM",
+  "line_item_rate_field": "Rate"
+}

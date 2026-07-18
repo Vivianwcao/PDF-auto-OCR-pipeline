@@ -1,0 +1,17 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  UniversalCodeValidator:
+    Type: AWS::Serverless::Function
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      FunctionName: UniversalCodeValidator
+      Handler: index.handler
+      Runtime: nodejs22.x
+      MemorySize: 350
+      Timeout: 900
+
+      Role: arn:aws:iam::759080473149:role/service-role/universal_afe_validation_helper-role-p09kxad3
+      CodeUri: ./

@@ -1,0 +1,23 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+
+Resources:
+  OpenInvoiceJobutraxApiCalls:
+    Type: AWS::Serverless::Function
+    DeletionPolicy: Retain
+    UpdateReplacePolicy: Retain
+    Properties:
+      FunctionName: OpenInvoiceJobutraxApiCalls
+      Handler: index.handler
+      Runtime: nodejs22.x
+      MemorySize: 512
+      Timeout: 900
+
+      Role: arn:aws:iam::759080473149:role/service-role/openInvoice-api-calls
+      VpcConfig:
+        SubnetIds:
+          - subnet-0459e0e1e4350b48d
+          - subnet-07c34b276def4f14c
+        SecurityGroupIds:
+          - sg-0445c964e4ba68ce4
+      CodeUri: ./

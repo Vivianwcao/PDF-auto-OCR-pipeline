@@ -1,0 +1,11 @@
+version = 0.1
+
+[default.deploy.parameters]
+stack_name = "universal-pdf-to-text"
+resolve_s3 = true
+s3_prefix = "universal-pdf-to-text"
+region = "ca-central-1"
+confirm_changeset = false
+capabilities = "CAPABILITY_IAM"
+disable_rollback = false
+image_repositories = []

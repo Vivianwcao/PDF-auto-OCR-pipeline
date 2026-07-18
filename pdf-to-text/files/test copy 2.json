@@ -1,0 +1,128 @@
+{
+	"headerData": {
+		"custbody_scs_cost_center": null,
+		"custbody_scs_duns_num": "078830690",
+		"custbody_ava_subsidiarycountry": "United States",
+		"prevdate": "9/30/2025",
+		"custbody_ava_customercompanyname": "Permian Resources Operating LLC",
+		"custbody_scs_billing_contact_name": "Colton Amos",
+		"billaddress": "Permian Resources Operating LLCn300 N Marienfeld St, Ste 1000nMidland TX 79701nUnited States",
+		"entityname": "Accounts Payable Operations",
+		"custbody_ava_salesresp": "Kelsey Williams",
+		"shipstate": "NMshipstate",
+		"taxrate": "5.71",
+		"tranid": "INV52302",
+		"custbody_requisitioner": null,
+		"custbody_scs_external_comments": "Cost Center 62102, Maj. 8700, Min. 4400rnrnNeed panel asset #rnrn12 month contract 6/1/2025 through 5/31/2026",
+		"custbody_wbs_cc_wo_afe": null,
+		"custbody_scs_afe": null,
+		"custbody_ccc_customer_site_loc_text": null,
+		"tranDate": "9/30/2025",
+		"type": "custinvc",
+		"id": "863492",
+		"custrecord_external_comments": null,
+		"itemTotal": null,
+		"memo": null
+	},
+	"itemsData": [
+		{
+			"amount": "14500.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Natural Gas 350 kW Generator",
+			"quantity": "1",
+			"rate": "14500.00",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/1/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "290.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Environmental Service Fee (2% of Rental)",
+			"quantity": "1",
+			"rate": "2.00%",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/30/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "14500.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Natural Gas 350 kW Generator",
+			"quantity": "1",
+			"rate": "14500.00",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/1/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "290.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Environmental Service Fee (2% of Rental)",
+			"quantity": "1",
+			"rate": "2.00%",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/30/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "2500.00",
+			"custcol_ava_numberofdays": null,
+			"description": "2400A [4x600A] Mobile Paralleling Panel",
+			"quantity": "1",
+			"rate": "2500.00",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/1/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "50.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Environmental Service Fee (2% of Rental)",
+			"quantity": "1",
+			"rate": "2.00%",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/30/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "1050.00",
+			"custcol_ava_numberofdays": null,
+			"description": "4/0 DLO CABLE - FREE SPOOL",
+			"quantity": "350",
+			"rate": "0.10",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/1/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "21.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Environmental Service Fee (2% of Rental)",
+			"quantity": "1",
+			"rate": "2.00%",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/30/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		},
+		{
+			"amount": "-600.00",
+			"custcol_ava_numberofdays": null,
+			"description": "Customer Discounts - 4/0 DLO Cable u2013 Free Spool",
+			"quantity": "1",
+			"rate": "-600.00",
+			"units_display": null,
+			"custcol_nrt_bill_date_start": "9/1/2025",
+			"custcol_nrt_bill_date_end": "9/30/2025",
+			"part_number": null
+		}
+	]
+}

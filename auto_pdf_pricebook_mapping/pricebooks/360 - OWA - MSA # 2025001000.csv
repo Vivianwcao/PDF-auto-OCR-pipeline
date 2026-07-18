@@ -1,0 +1,85 @@
+pricebook_description,pricebook_partId,pricebook_uom,pricebook_rate,invoice_description,invoice_uom,invoice_rate,
+Brush fans,21033,Day,50,Brush Fan,Daily,50
+Trailer - quad or skidoo,21727,Day,100,Trailer- quad or skidoo,Daily,100
+Administrative,Administrative,Hour,70,Administrator,Hour,70
+Bentonite Per Bag,Bentonite Per Bag,Each,55,Bentonite-Per Bag,Each,55
+Bombardier with drill B180/Heliportable/Track Drill,Bombardier with drill B180/Heliportable/Track Drill,Hour,295,Bombardier with drill/B180/Heliportable/Track Drill,Hour,295
+Chopsaw,Chopsaw,Day,100,Chopsaw,Daily,100
+Consumables for drill rig/drill truck,Consumables for drill rig/drill truck,Each,60,Consumables for drill rig/drill truck,Each,60
+Cutting Torch,Cutting Torch,Day,50,Cutting Torch,Daily,50
+DSA Lump Sum Full DSA Area 1 $,DSA Lump Sum Full DSA Area 1 $,$,1850,Detailed Site Assessment,Each,1850
+DSA Lump Sum Full DSA Area 2 $,DSA Lump Sum Full DSA Area 2 $,$,2950,Detailed Site Assessment,Each,2950
+DSA Lump Sum Partial DSA (Soils) Area 1 $,DSA Lump Sum Partial DSA (Soils) Area 1 $,$,1250,Detailed Site Assessment,Each,1250
+DSA Lump Sum Partial DSA (Soils) Area 2 $,DSA Lump Sum Partial DSA (Soils) Area 2 $,$,2520,Detailed Site Assessment,Each,2520
+DSA Lump Sum Partial DSA (Vegetation) Area 1 $,DSA Lump Sum Partial DSA (Vegetation) Area 1 $,$,1500,Detailed Site Assessment,Each,1500
+DSA Lump Sum Partial DSA (Vegetation) Area 2 $,DSA Lump Sum Partial DSA (Vegetation) Area 2 $,$,2520,Detailed Site Assessment,Each,2520
+Draftsperson,Draftsperson,Hour,85,Draftsperson/GIS,Hour,85
+EM31 or EM38 Surveys,EM31 or EM38 Surveys,Each,1000,EM Survey 31 & 38,Each,1000
+Entry Level Professional (Field),Entry Level Professional (Field),Hour,75,Entry Level Environmental Scientist,Hour,75
+Entry Level Professional (Office),Entry Level Professional (Office),Hour,75,Entry Level Environmental Scientist,Hour,75
+Entry Level Professional (Travel),Entry Level Professional (Travel),Hour,75,Entry Level Environmental Scientist,Hour,75
+Equipment Trailer (mini equipment),Equipment Trailer (mini equipment),Day,200,Equipment Trailer (Mini equipment),Daily,200
+Fertilizer 26-14-6-6 Per Bag,Fertilizer 26-14-6-6 Per Bag,Each,50,Fertilizer-Per Bag,Each,50
+Filter Sand- Per Bag,Filter Sand- Per Bag,Each,25,Filter Sand,Each,25
+GeoJute - 4x225' Per Roll,GeoJute - 4x225' Per Roll,Each,245,GeoJute-4x225' Per Roll,Each,245
+Geosynthetic Liner Woven textile - 315W 15' x 300' (420 sqm/roll),Geosynthetic Liner Woven textile - 315W 15' x 300' (420 sqm/roll),Each,720,Geosynthetic Liner Woven Textile 315ST 12.5 x 360,Each,720
+Gypsum- Bulk Bag (850-1000kg/bulkbag),Gypsum- Bulk Bag (850-1000kg/bulkbag),Each,600,Gypsum-Bulk Bag (850-1000kg/bulk bag),Each,600
+"Hotel (at cost, receipt required)","Hotel (at cost, receipt required)",At Cost,,Hotel,Each,
+"Hotel (at cost, receipt required)","Hotel (at cost, receipt required)",At Cost,,Tourism Levy,Each,
+"Hotel (at cost, receipt required)","Hotel (at cost, receipt required)",At Cost,,Tourism,Each,
+Hydraulic Conductivity Testing,Hydraulic Conductivity Testing,Well,75,Hydraulic Conductivity Testing,Each,75
+Interface Probe (30 m),Interface Probe (30 m),Day,60,Interface Probe / Water Level Tape (30m),Daily,60
+Intermediate Hydrogeologist/Groundwater Engineer (Field),Intermediate Hydrogeologist/Groundwater Engineer (Field),Hour,130,,,
+Intermediate Hydrogeologist/Groundwater Engineer (Office),Intermediate Hydrogeologist/Groundwater Engineer (Office),Hour,130,,,
+Intermediate Hydrogeologist/Groundwater Engineer (Travel),Intermediate Hydrogeologist/Groundwater Engineer (Travel),Hour,130,,,
+Intermediate Professional (Field),Intermediate Professional (Field),Hour,100,Intermediate Environmental Scientist,Hour,100
+Intermediate Professional (Office),Intermediate Professional (Office),Hour,100,Intermediate Environmental Scientist,Hour,100
+Intermediate Professional (Travel),Intermediate Professional (Travel),Hour,100,Intermediate Environmental Scientist,Hour,100
+Intermediate Risk Assessor (Field),Intermediate Risk Assessor (Field),Hour,130,,,
+Intermediate Risk Assessor (Office),Intermediate Risk Assessor (Office),Hour,130,,,
+Intermediate Risk Assessor (Travel),Intermediate Risk Assessor (Travel),Hour,130,,,
+Junior Professional (Field),Junior Professional (Field),Hour,85,Junior Environmental Scientist,Hour,85
+Junior Professional (Office),Junior Professional (Office),Hour,85,Junior Environmental Scientist,Hour,85
+Junior Professional (Travel),Junior Professional (Travel),Hour,85,Junior Environmental Scientist,Hour,85
+Kubota B2320HSD Tractor,Kubota B2320HSD Tractor,Day,1200,Kubota 2320,Daily,1200
+Kubota B2650HSD Tractor,Kubota B2650HSD Tractor,Day,1200,Kubota B2650HSD Tractor,Daily,1200
+Kubota K008-3 Hoe (Self Propelled),Kubota K008-3 Hoe (Self Propelled),Day,1200,Kubota Hoe (Self Propelled),Daily,1200
+Laser Level,Laser Level,Day,50,Laser Level,Daily,50
+MH4800 - Large Cat,MH4800 - Large Cat,Day,1200,MH4800-Large Cat,Daily,1200
+Miscellaneous items - Billed at cost with back-up provided. Prior coordinator approval obtained.,Miscellaneous items @ cost with back-up Prior coordinator approval obtained,At Cost,,,Each,
+NORM meter,NORM meter,Day,100,NORMS Meter,Daily,100
+"Other Accommodation, i.e. holiday trailer","Other Accommodation, i.e. holiday trailer",Day,100,"Other Accommodations, i.e. Holiday Trailer",Daily,100
+Phase 1 ESA Lump Sum Area 1,Phase 1 ESA Lump Sum Area 1,$,1000,Phase 1 Environmental Site Assessment,Each,1000
+Phase 1 ESA Lump Sum Area 2,Phase 1 ESA Lump Sum Area 2,$,1450,Phase 1 Environmental Site Assessment,Each,1450
+Phase 1 ESA Lump Sum Multi-site Additional DWDA CO per wellbore Area 1,Phase 1 ESA Lump Sum Multi-site Additional DWDA CO per wellbore Area 1,$,250,Phase 1 Environmental Site Assessment,Each,250
+Phase 1 ESA Lump Sum Multi-site Additional DWDA CO per wellbore Area 2,Phase 1 ESA Lump Sum Multi-site Additional DWDA CO per wellbore Area 2,$,250,Phase 1 Environmental Site Assessment,Each,250
+Picker Truck (5 ton with 7 tonne picker),Picker Truck (5 ton with 7 tonne picker),Hour,175,Picker Truck (5 tonne w/ 7 tonne picker),Hour,175
+Poly Liner 40' x 100' (per roll) - Remediation Projects,Poly Liner 40' x 100' (per roll) - Remediation Projects,Each,385,Poly Liner 10' x 100' (per roll),Each,385
+"Private Accommodation (at cost, receipt required)","Private Accommodation (at cost, receipt required)",At Cost,,,Each,
+Pull Behind Mini Hoe,Pull Behind Mini Hoe,Day,1100,Troy Built Hoe-Pull Behind,Daily,1100
+Quad,Quad,Day,180,ATV: Quad or snowmobile,Daily,180
+RCA Lump Sum Area 1 $,RCA Lump Sum Area 1 $,$,500,Reclamation Certificate Application,Each,450
+RCA Lump Sum Area 2 $,RCA Lump Sum Area 2 $,$,1500,Reclamation Certificate Application,Each,1500
+RKI/Gastech - RKI eagle only charged for care and custody sites,RKI/Gastech - RKI eagle only charged for care and custody sites,Day,80,RKI Eagle or Equivalent,Daily,100
+RS1000 - Small Cat,RS1000 - Small Cat,Day,1100,RS1000-Small Cat,Daily,1100
+Remote Access Tracked Cradle (Plus Phase II Drill) - Pull with argo,Remote Access Tracked Cradle (Plus Phase II Drill) - Pull with argo,Hour,295,Remote Access Tracked Cradle (plus PII Drill)-Pull with Argo,Hour,295
+River Boat,River Boat,Day,500,River Boat,Daily,500
+Senior Advisor - Jeff Biegel (Field),Senior Advisor - Jeff Biegel (Field),Hour,150,Senior Advisor,Hour,150
+Senior Hydrogeologist/Groundwater Engineer (Field),Senior Hydrogeologist/Groundwater Engineer (Field),Hour,140,Senior Hydrogeologist/Geochemist,Hour,140
+Senior Hydrogeologist/Groundwater Engineer (Office),Senior Hydrogeologist/Groundwater Engineer (Office),Hour,140,Senior Hydrogeologist/Geochemist,Hour,140
+Senior Hydrogeologist/Groundwater Engineer (Travel),Senior Hydrogeologist/Groundwater Engineer (Travel),Hour,140,Senior Hydrogeologist/Geochemist,Hour,140
+Senior Professional (Field),Senior Professional (Field),Hour,115,Senior Environmental Scientist,Hour,115
+Senior Professional (Office),Senior Professional (Office),Hour,115,Senior Environmental Scientist,Hour,115
+Senior Professional (Travel),Senior Professional (Travel),Hour,115,Senior Environmental Scientist,Hour,115
+Senior Program Manager (Office),Senior Program Manager (Office),Hour,130,Senior Program Manager / Prof Sign Off,Hour,130
+Senior Risk Assessor (Field),Senior Risk Assessor (Field),Hour,150,Senior Risk Assessor,Hour,150
+Senior Risk Assessor (Office),Senior Risk Assessor (Office),Hour,150,Senior Risk Assessor,Hour,150
+Senior Risk Assessor (Travel),Senior Risk Assessor (Travel),Hour,150,Senior Risk Assessor,Hour,150
+Senior Technical Reviewer (Field),Senior Technical Reviewer (Field),Hour,130,Senior Program Manager / Prof Sign Off,Hour,130
+Silt Fence 3x100',Silt Fence 3x100',Each,120,Silt Fence 3x100',Each,120
+Sprayer Operator/Pesticide Applicator,Sprayer Operator/Pesticide Applicator,Hour,85,Sprayer Operator/Pesticide Applicator,Hour,85
+Summer Student/Labourer,Summer Student/Labourer,Hour,70,Labourer,Hour,70
+Argo,U1054,Day,455,Argo,Daily,455
+Meals,U1123,Day,60,Subsistence,Daily,60
+Vehicle km charge,Vehicle km charge ($/km),KM,1.1,Truck Mileage (km),KM,1.1
+Waterpump (includes hose),Waterpump (includes hose),Day,200,Water Pump 3” - with 100ft hose,Daily,200
